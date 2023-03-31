@@ -16,13 +16,14 @@ header{
     height: 100px;
     padding-top: 20px;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.534);
+    padding-bottom: 40px;
 }
 
 header > p{
     width: 350px;
     margin: auto;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 nav{
