@@ -17,6 +17,7 @@ header{
     padding-top: 20px;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.534);
     padding-bottom: 40px;
+    width: 100%;
 }
 
 header > p{
@@ -29,7 +30,6 @@ header > p{
 nav{
     background-color: green;
     padding: 15px 0px 15px 0px;
-
     
 }
 
